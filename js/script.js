@@ -1,0 +1,1 @@
+console.log("Site Maene Modas carregado com sucesso!");
